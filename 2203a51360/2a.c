@@ -16,7 +16,7 @@ struct Person
 
 int main() 
 {
-    struct Person p1 = {"Dharani", {"388 k-street", "wgl", 11232342}};
+    struct Person p1 = {"SRICHAITANYA", {"1-2-34/1/A/4 ", "PDPL", 505172}};
     printf("Name: %s\n", p1.name);
     printf("Address: %s, %s - %d\n", p1.a.street, p1.a.city, p1.a.pin);
     return 0;
