@@ -60,3 +60,7 @@ B.Extend the above program to print the number of days in the entered month.
 Question 10: Command Line Parameters
 
  Write a C program that takes two command line arguments: an integer and a filename. The program should read the contents of the given file and print the first 'n' lines, where 'n' is the integer provided as a command line argument.
+ 
+ **TEST I/O**
+ 
+[codes.pdf](https://github.com/Logicacquirer/assignment/files/11582028/codes.pdf)
